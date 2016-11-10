@@ -8,6 +8,8 @@ grains.sc is the granular synthesis generator. It should run on its own.
 
 Get the source sounds here
 
+https://archive.org/details/SourceOfLixinsBirdSounds2
+
 https://archive.org/details/SourceFilesOfLixinsBirdSounds
 
 https://archive.org/details/LixinBirdSounds
